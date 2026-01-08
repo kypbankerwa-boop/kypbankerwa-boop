@@ -1,0 +1,7 @@
+{
+  "name": "GoLib Pro - Study Library Management",
+  "description": "A high-performance management system for premium study libraries, featuring real-time seating maps, student profile management, automated fee calculations, and ID card generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
